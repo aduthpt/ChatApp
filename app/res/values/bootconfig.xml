@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="remoteAccessConsumerKey">3MVG9G9pzCUSkzZtcf3OzQeCGxOZlpFdmcTjcmGU7K7RZcZpaPLaW08Wx9xc3XBudUNv_zWL4i1B_LNBGcbvb</string>
+    <string name="oauthRedirectURI">trailheadapp://auth/success</string>
+    <string-array name="oauthScopes">
+       <item>api</item>
+		<item>web</item>
+		<item>chatter_api</item>
+		<item>refresh_token</item>
+        <item>offline_access</item>
+    </string-array>
+    <string name="androidPushNotificationClientId"></string>
+</resources>

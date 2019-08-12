@@ -1,0 +1,8 @@
+{
+    "name": "nativechattersf",
+    "version": "0.0.1",
+    "private": true,
+    "sdkDependencies": {
+        "SalesforceMobileSDK-Android": "https://github.com/forcedotcom/SalesforceMobileSDK-Android.git#v7.2.0"
+    }
+}
